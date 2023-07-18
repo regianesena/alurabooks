@@ -1,8 +1,8 @@
 ![Logo da AluraBooks](https://github.com/regianesena/alurabooks/assets/132175867/e7839f22-ac9e-49f2-a4bf-9e2c7d3426f1)  # AluraBooks
 
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
-[![GitHub branches](https://github.com/regianesena/alurabooks)]
-[![GitHub latest commit](https://github.com/regianesena/alurabooks/commit/)]
+[![GitHub branches](https://github.com/regianesena/alurabooks/branches)]
+[![GitHub latest commit](https://github.com/regianesena/alurabooks/commits/main)]
 
 Projeto feito durante o curso de responsividade da Alura. Nesse projeto, criamos um e-commerce de livros.
 
