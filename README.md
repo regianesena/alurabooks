@@ -1,4 +1,4 @@
-![Logo da AluraBooks](https://github.com/regianesena/alurabooks/assets/132175867/e7839f22-ac9e-49f2-a4bf-9e2c7d3426f1)  #AluraBooks
+![Logo da AluraBooks](https://github.com/regianesena/alurabooks/assets/132175867/e7839f22-ac9e-49f2-a4bf-9e2c7d3426f1)  <h1>AluraBooks</h1>
 
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
